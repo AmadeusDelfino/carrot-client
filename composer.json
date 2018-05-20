@@ -1,0 +1,13 @@
+{
+    "name": "amadeusdelfino/carrot-worker",
+    "description": "A client to provide functions to a carrot server",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amadeus Delfino",
+            "email": "amadeus.cmd@gmail.com"
+        }
+    ],
+    "require": {}
+}
